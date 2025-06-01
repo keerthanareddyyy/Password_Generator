@@ -31,18 +31,8 @@ Special characters
 
 The program will generate and display a random secure password matching your preferences.
 
-Example Output
-pgsql
-Copy
-Edit
-Enter password length: 12
-Include uppercase letters? (y/n): y
-Include lowercase letters? (y/n): y
-Include numbers? (y/n): y
-Include special characters? (y/n): y
 
-Generated Password: A9$dEf7&hJ2k
-Requirements
+
 Python 3.x (no external libraries required)
 
 How It Works
